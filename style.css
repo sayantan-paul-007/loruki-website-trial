@@ -28,7 +28,6 @@ h1,h2{
     font-weight: 300;
     line-height: 1.2;
     margin: 10px 0;
-
 }
 p{
     margin: 10px 0;
@@ -194,7 +193,6 @@ code,pre{
 .docs-main .grid{
     grid-template-columns: 1fr 2fr;
     align-items: flex-start;
-    
 }
 .docs-main nav li{
     font-size: 17px;
@@ -276,7 +274,6 @@ code,pre{
     .docs-head{
         text-align: center;
     }
-    
     .features-head img,
     .features-sub-head img,
     .docs-head img{
